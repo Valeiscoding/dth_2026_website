@@ -29,12 +29,13 @@ body {
 
 /* some of HTML elements come with element specific style, we want to remove it so we can style them ourselves */
 a {
-  color: inherit; /* the "inherit" property ensures that the element uses the same style as its parent - an element specific style will overwrite this property*/
-  text-decoration: inherit;
+  color: rgba(134, 247, 29, 0.447);
+  /* the "inherit" property ensures that the element uses the same style as its parent - an element specific style will overwrite this property*/
+  text-decoration: rgba(49, 97, 5, 0.447);
 }
 
 ul {
-  list-style: none;
+  list-style: square inside url("sqpurple.gif");
 }
 
 section {
