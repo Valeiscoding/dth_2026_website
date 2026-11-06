@@ -147,9 +147,8 @@ h1 {
 /* footer */
 
 footer {
-  background-color: rgba(131, 255, 16, 0.447)
-  margin: 0;
-}
+  background-color: rgba(131, 255, 16, 0.447);
+  margin: 0;}
 
 #footerBody{
   justify-content: center;
