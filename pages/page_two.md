@@ -1,12 +1,9 @@
-# Page two
+# The dark side: Disadvantages of open source software
 
-## This is the headline of your second page
+So, now that we have explored the advantages of this software, let's take a closer look at some of the disadvantages. 
 
-The text on this page is written in the file **pages/page_two.md**. The first line, starting with a single #, becomes the heading in the banner.
+## No secrecy
+While the transparency of the code is an advantage when it comes to security, it can also be a disadvantage when looking for secrecy. Let’s take the example of a video game developed with open source. The creator would like to release a new version and impress all the gamers by adding a cool “secret” feature that they would only be able to look at once the version is out. This would never be possible in open source, because the moment the developer commits that change, it will be available in the code for everyone to read. Therefore, open source does not allow for a surprise factor.
 
-There is only one HTML file, index.html. It holds the frame around the text: the navigation, the banner and the footer. The link in the navigation decides which markdown file is shown inside the frame. The words themselves live in a markdown file, which is much quicker to write than HTML. Many websites work the same way: the content is kept separately from the page that displays it.
-
-### Another headline
-
-1. Numbered lists work too
-2. Just start the lines with numbers
+## Control, legitimacy, and evil uses
+In a way, coders in open source are anonymous “heroes”. While you could still access to a person's profile, the information they share on it is up to them, just as we saw in the XZ Backdoor, fake profiles can be created and build a persona, gain trust, and then access privileges that might endanger not only the development of an open source software but also the end users of this. There is no way to verify credentials and, at the same time, people with ulterior motives can create a fork of a project and reuse it in harmful ways, just as the example of the Immigrations and Customs Enforcement (ICE) of United States utilizing open source tools (Chef) in connection with their massive raids and immigrant incarceration into camps.
