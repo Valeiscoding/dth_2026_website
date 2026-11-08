@@ -8,8 +8,4 @@ All open source projects can be seen as an open knowledge hub. Because of its na
 
 ## Transparent and creative development 
 
-Having a software that works on an open source basis allows for collaboration from people with different perspectives, experiences, and backgrounds. This mix of elements can result in a more creative development, since different members can point out blind-spots and gaps that one singular person might not think of. At the same time, having more mind thinking together helps to have a faster development, as well as more vigilant eyes watching out for faults in the code, which can also translate into quicker bug fix suggestions.  
-
-![The beach at Skagen](./assets/images/skagen.jpg)
-
-**bold**, *italics*, [links](https://www.sdu.dk) and lists:
+Having a software that works on an open source basis allows for collaboration from people with different perspectives, experiences, and backgrounds. This mix of elements can result in a more creative development, since different members can point out blind-spots and gaps that one singular person might not think of. At the same time, having more mind thinking together helps to have a faster development, as well as more vigilant eyes watching out for faults in the code, which can also translate into quicker bug fix suggestions.
