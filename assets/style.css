@@ -153,6 +153,11 @@ font-family: "Rubik 80s Fade", system-ui;
   transform: scale(1.3);
 }
 
+article[data-artID="2"]{
+  width: 65%;
+  align-content: center;
+}
+
 /* footer */
 
 footer {
