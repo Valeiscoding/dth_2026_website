@@ -200,6 +200,16 @@ footer {
 
 .lightText {
   font-weight: 200;
+  color: #ceaeea;
+  border-color: white;
+  border: 1px solid #333;
+  border-radius: 999px;
+  padding: 10px 16px;
+}
+
+.ImageSource {
+  color: rgb(188, 188, 189);
+  font-weight: 100;
 }
 
 /* markdown content */
