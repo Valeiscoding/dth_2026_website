@@ -141,9 +141,8 @@ font-family: "Rubik 80s Fade", system-ui;
 
 .carouselBtn {
   outline: none;
-  border: none;
   color: rgba(17, 118, 212, 0.85);
-  font-size: 48px;
+  font-size: 60px;
   margin: 0 40px;
   transition: ease-in-out, 0.3s;
 }
