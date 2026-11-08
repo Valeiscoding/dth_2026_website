@@ -26,6 +26,7 @@ body {
   margin: 0;
   font-weight: 300;
   background-color: #110311;
+  color: aliceblue;
 }
 
 /* some of HTML elements come with element specific style, we want to remove it so we can style them ourselves */
@@ -57,6 +58,8 @@ section {
 .footerLinks {
   margin-left: 20px;
   transition: ease-in-out, 0.3s;
+  background-color: #a7ec96;
+  border-radius: 20px;
 }
 
 #navBar>a:hover {
@@ -172,6 +175,7 @@ footer {
   display: flex;
   flex-wrap: nowrap;
   flex-direction: row;
+  flex-shrink: 0;
 }
 
 .defaultPageMargin {
@@ -180,6 +184,10 @@ footer {
 
 .blueText {
   color: rgb(5, 243, 255);
+}
+
+.blueText1 {
+  color: rgb(88, 255, 5);
 }
 
 .redText {
