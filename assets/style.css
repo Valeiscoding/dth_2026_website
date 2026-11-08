@@ -64,14 +64,14 @@ section {
   cursor: pointer;
 }
 .navLink:hover {
-  color: var(--blue);
+  color: var(--purple);
   cursor: pointer;
 }
 
 /* hero banner */
 
 #pageHero {
-  background-image: url("./images/skagen.jpg");
+  background-image: url("./images/artapixel-skyscrapers-6990425_1920.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
