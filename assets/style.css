@@ -156,7 +156,7 @@ font-family: "Rubik 80s Fade", system-ui;
 /* footer */
 
 footer {
-  background-color: rgba(131, 255, 16, 0.447);
+  background-color: #a7ec96;
   margin: 0;}
 
 #footerBody{
@@ -261,3 +261,4 @@ main img {
 }
 
 #page_two h2 { color: rgba(29, 227, 249, 0.909) }
+#page_one h2 { color: rgba(29, 227, 249, 0.909) }
