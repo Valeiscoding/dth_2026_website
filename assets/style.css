@@ -201,12 +201,13 @@ footer {
   font-weight: 200;
   color: #ceaeea;
   border-color: white;
-  border: 1px solid #333;
+  border: 2px solid #333;
   border-radius: 999px;
   padding: 10px 16px;
   display: flex;
   flex-wrap: nowrap;
-  transition: color .3s, border-color .3s;
+  margin-right: 950px;
+  padding-left: 34px;
 }
 
 .ImageSource {
