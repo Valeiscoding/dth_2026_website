@@ -25,7 +25,7 @@ body {
   padding: 0;
   margin: 0;
   font-weight: 300;
-  background: linear-gradient(to bottom, --black, #de11b5b4);
+  background: linear-gradient(25deg, #000 70%, #de11b5b4);
   color: aliceblue;
 }
 
@@ -133,6 +133,10 @@ font-family: "Rubik 80s Fade", system-ui;
   background-color: var(--light-blue);
 }
 
+.carouselArt[data-artID="2"]{
+  width: 80%;
+}
+
 #carouselBtnContainer {
   width: 100%;
   justify-content: center;
@@ -216,7 +220,7 @@ footer {
 
 .ImageSource {
   color: rgb(188, 188, 189);
-  font-weight: 20;
+  font-size: 12px;
 }
 
 /* markdown content */
