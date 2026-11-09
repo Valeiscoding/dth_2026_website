@@ -25,7 +25,7 @@ body {
   padding: 0;
   margin: 0;
   font-weight: 300;
-  background: -o-linear-gradient(#180c23, #f308d8);
+  background: linear-gradient(25deg, --black 80%, #f308d8);
   color: aliceblue;
 }
 
@@ -154,8 +154,7 @@ font-family: "Rubik 80s Fade", system-ui;
 }
 
 .flex[data-artID="2"]{
-  width: 65%;
-  align-content: center;
+  width: 100%;
 }
 
 /* footer */
@@ -212,6 +211,11 @@ footer {
   flex-wrap: nowrap;
   margin-right: 950px;
   padding-left: 34px;
+  transition: border-color .3s;
+}
+
+.lightText:hover {
+  color: #9226f0;
 }
 
 .ImageSource {
