@@ -133,10 +133,6 @@ font-family: "Rubik 80s Fade", system-ui;
   background-color: var(--light-blue);
 }
 
-.carouselArt[data-artID="2"]{
-  width: 80%;
-}
-
 #carouselBtnContainer {
   width: 100%;
   justify-content: center;
