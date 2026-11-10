@@ -5,13 +5,13 @@ As a current Master Student in Intercultural Studies, interdisciplinarity is a c
 
 This open source software was created by Weishuhn and offers research tools for academics, like paper discovery and —the star of this website for me— [Literature connector](https://incitefulmed.com/academic/c). The latter allows you to find research and papers that have connected two papers you are looking into. 
 
-![Inciteful Literature Connector](week43_assignment_template/html_css_template/assets/images/Screenshot1.png)
+![Inciteful Literature Connector](./assets/images/Screenshot1.png)
 
 So, let’s say you have a paper on food anthropology and a paper on food semiotics. You can add them to the Literature connector tool and it will give you a list of papers and a graph that shows the connections. You can also save this graph. This is a game changer for all of us that study interdisciplinary studies, as it helps us to find connection paths in several fields.
 
-![Connections Graph](week43_assignment_template/html_css_template/assets/images/Screenshot3.png)
+![Connections Graph](./assets/images/Screenshot3.png)
 
-![Articles connected](week43_assignment_template/html_css_template/assets/images/Screenshot2.png)
+![Articles connected](./assets/images/Screenshot2.png)
 
 Inciteful operates under a AGPL-3.0 license, and the last commit was done on November 6th, 2026, meaning this is still an active project even though there are only 4 contributors, being Weishuhn the most active one. Weishuhn also reviews the issues raised, with a total of 7 issues published, all of them have been answered and closed and 6 were fixed. The software is being kept free at the expense of Weishuhn, who is looking into [institutions that want to sponsor the project](https://incitefulmed.com/academic/about) and even considering accepting donations.
 

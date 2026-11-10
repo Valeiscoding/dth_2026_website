@@ -267,3 +267,13 @@ main img {
 
 #page_two h2 { color: rgba(29, 227, 249, 0.909) }
 #page_one h2 { color: rgba(29, 227, 249, 0.909) }
+
+#page_three img {
+  width: 50%;
+  align-content: space-between;
+  transition: width .3s;
+}
+
+#page_three img:hover {
+  width: 100%
+}
