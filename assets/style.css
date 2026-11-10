@@ -228,7 +228,7 @@ main h2 + p {
 
 /* the resets at the top remove link colours and bullets everywhere, so we give them back inside main */
 main a {
-  color: purple;
+  color: rgb(182, 17, 247);
   text-decoration: underline;
 }
 
