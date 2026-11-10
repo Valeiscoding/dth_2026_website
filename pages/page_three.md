@@ -17,6 +17,6 @@ Inciteful operates under a AGPL-3.0 license, and the last commit was done on Nov
 
 This tool has actually been a lifesaver for my thesis research, where I am connecting food semiotics with sociology and culture studies. I find this quite useful and I am currently relying on it. However, if the usage of this tool was not permitted, I could go back to doing research by keyword search in academic search engines, although it would be more time consuming. Another alternative would be contacting researchers on the field that could offer me some guidance and recommend literature.
 
-Sources
+### Sources
 - [Inciteful Web GitHub](https://github.com/inciteful-xyz/inciteful-web)
 - [Inciteful Website](https://incitefulmed.com/academic/)

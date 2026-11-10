@@ -8,5 +8,5 @@ While the transparency of the code is an advantage when it comes to security, it
 ## Control, legitimacy, and evil uses
 In a way, coders in open source are anonymous “heroes”. While you could still access to a person's profile, the information they share on it is up to them, just as we saw in the XZ Backdoor, fake profiles can be created and build a persona, gain trust, and then access privileges that might endanger not only the development of an open source software but also the end users of this. There is no way to verify credentials and, at the same time, people with ulterior motives can create a fork of a project and reuse it in harmful ways, just as the example of the [Immigrations and Customs Enforcement (ICE) of United States utilizing open source tools (Chef)](https://mashable.com/article/chef-ice-seth-vargo) in connection with their massive raids and immigrant incarceration into camps.
 
-Source
+### Source
 - [Mashable on Seth Vargo's pull](https://mashable.com/article/chef-ice-seth-vargo)

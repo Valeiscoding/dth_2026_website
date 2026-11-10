@@ -101,6 +101,10 @@ font-family: "Rubik 80s Fade", system-ui;
   color: rgba(132, 3, 137, 0.782);
 }
 
+h3 {
+  color: #8eef39;
+}
+
 /* carousel articles */
 
 #carouselMain {
