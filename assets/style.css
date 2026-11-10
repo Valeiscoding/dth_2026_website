@@ -78,17 +78,57 @@ section {
 /* hero banner */
 
 #pageHero {
-  background-image: url("./images/artapixel-skyscrapers-6990425_1920.jpg");
+  background-color: #ceaeea34;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   height: 40vh;
+  box-sizing: border-box;
+  cursor: crosshair;
+}
+
+#pageHero img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 35%;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+#pageHero .color {
+  clip-path: inset(50% 50% 50% 50%);
+  will-change: clip-path;
 }
 
 #bannerShadow {
   background-color: rgba(160, 213, 240, 0.447);
   height: 100%;
 }
+
+.fx {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  width: 0;
+  height: 0;
+  pointer-events: none;
+  transition: opacity .4s;
+  z-index: 2;
+}
+
+.fx .lens {
+  border-width: 1px;
+  border-color: #7ffe5f;
+}
+
+.fx .on {
+  opacity: 1;
+}
+
 
 h1 {
   width: 100%;
