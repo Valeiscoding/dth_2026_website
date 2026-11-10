@@ -268,13 +268,13 @@ main img {
 #page_two h2 { color: rgba(29, 227, 249, 0.909) }
 #page_one h2 { color: rgba(29, 227, 249, 0.909) }
 
-#page_three img:not(.carouselArt) {
+#page_three img:not(.CarImg) {
   width: 50%;
   transition: width .3s;
+  margin: auto;
   display: flex;
-  justify-content: center;
 }
 
-#page_three img:not(.carouselArt):hover {
+#page_three img:not(.CarImg):hover {
   width: 100%;
 }
