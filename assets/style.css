@@ -274,6 +274,6 @@ main img {
   transition: width .3s;
 }
 
-#page_three img:hover {
+#page_three img:hover:not(.carouselArt) {
   width: 100%
 }
