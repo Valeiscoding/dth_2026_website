@@ -282,3 +282,8 @@ main img {
 #page_three img:not(.CarImg):hover {
   width: 100%;
 }
+
+#totalCount {
+  align-self: center;
+  margin: 0;
+}
